@@ -1,7 +1,7 @@
 ﻿namespace Ozow.Service.Interfaces
 {
-    public interface ISortService<T>
+    public interface ISortService
     {
-        T Sort(string input);
+        string Sort(string input);
     }
 }
