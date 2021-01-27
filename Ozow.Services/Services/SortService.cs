@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Ozow.Service.Services
 {
-    public class SortService : ISortService<string>
+    public class SortService : ISortService
     {
         #region Readonly Fields
 
